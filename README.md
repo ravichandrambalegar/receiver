@@ -17,6 +17,6 @@ commandline to install apache-artemis:
 run the project after installation of apache-artemis.
 
 . This application used to receives the Message :
-point to point (P2P)
-Publish/Subscribe (Pub/Sub) 
+point to point (P2P),
+Publish/Subscribe (Pub/Sub), 
 P2P with Acknowledgement Response.
